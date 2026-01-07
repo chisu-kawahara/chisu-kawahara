@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### 🌱 Currently Learning
 - SwiftUI, iOS mobile architecture
 
-### 💻 Portfolio
+### 🖼️ Portfolio
 [Check it out!](https://chisu-kawahara.github.io/portfolio-chisu/)
 
 ### ✉️ Contact Me
