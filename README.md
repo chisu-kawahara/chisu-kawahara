@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Chisu</h1>
-<h3 align="center">A Junior Web & iOS Developer from BC Canada.I turn ideas into clean, intuitive apps. Problem-solving is my playground — like being the detective in a crime movie where you are also the murderer 🕵️‍♂️💻. Whether it’s designing iOS apps, crafting web experiences, or experimenting with new technologies, I enjoy creating solutions that are both functional and enjoyable to use.</h3>
+<h1 align="left">Hi 👋, I'm Chisu</h1>
+<p align="left">A Junior Web & iOS Developer from BC Canada.I turn ideas into clean, intuitive apps. Problem-solving is my playground — like being the detective in a crime movie where you are also the murderer 🕵️‍♂️💻. Whether it’s designing iOS apps, crafting web experiences, or experimenting with new technologies, I enjoy creating solutions that are both functional and enjoyable to use.</p>
 
 - 🌱 I’m currently learning **SwiftUI, iOS mobile architecture**
 
