@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **chisu-kawahara/chisu-kawahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,16 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="left">Hi 👋, I'm Chisu</h1>
-<p align="left">A Junior Web & iOS Developer from BC Canada.I turn ideas into clean, intuitive apps. Problem-solving is my playground — like being the detective in a crime movie where you are also the murderer 🕵️‍♂️💻. Whether it’s designing iOS apps, crafting web experiences, or experimenting with new technologies, I enjoy creating solutions that are both functional and enjoyable to use.</p>
+<h2 align="left">Hi there 👋, I'm Chisu!</h2>
+
+<p align="left">A Junior Web & iOS Developer from BC Canada. I turn ideas into clean, intuitive apps. Problem-solving is my playground — like being the detective in a crime movie where you are also the murderer 🕵️‍♂️ 💻. Whether it’s designing iOS apps, crafting web experiences, or experimenting with new technologies, I enjoy creating solutions that are both functional and enjoyable to use.</p>
+
+<p align="left">Whether it’s designing iOS apps, crafting web experiences, or experimenting with new technologies, I enjoy creating solutions that are both functional and enjoyable to use.</p>
+
 
 - 🌱 I’m currently learning **SwiftUI, iOS mobile architecture**
 
-- 🤖 Portfolio [https://chisu-kawahara.github.io/portfolio-chisu/](https://chisu-kawahara.github.io/portfolio-chisu/)
-
-- 📫 How to reach me **chisu.kawahara@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3>🤖 Portfolio [https://chisu-kawahara.github.io/portfolio-chisu/](https://chisu-kawahara.github.io/portfolio-chisu/)</h3>
+<h3 align="left">Connect with me: chisu.kawahara@gmail.com</h3>
 <p align="left">
 </p>
 
